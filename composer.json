@@ -1,6 +1,6 @@
 {
     "name": "safiull/laravel-installer",
-    "description": "Laravel web installer",
+    "description": "Laravel website installer package",
     "license": "MIT",
     "authors": [
         {
