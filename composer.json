@@ -2,6 +2,7 @@
     "name": "safiull/laravel-installer",
     "description": "Laravel website installer package",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Safiull Alam",
@@ -19,6 +20,8 @@
             "src/Helpers/functions.php"
         ]
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "extra": {
         "laravel": {
             "providers": [
@@ -28,7 +31,5 @@
     },
     "config": {
         "sort-packages": true
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
