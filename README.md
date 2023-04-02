@@ -1,9 +1,5 @@
 # Laravel Web Installer | A Web Installer [Package](https://packagist.org/packages/rachidlaasri/laravel-installer)
 
-[![Total Downloads](https://poser.pugx.org/rachidlaasri/laravel-installer/d/total.svg)](https://packagist.org/packages/rachidlaasri/laravel-installer)
-[![Latest Stable Version](https://poser.pugx.org/rachidlaasri/laravel-installer/v/stable.svg)](https://packagist.org/packages/rachidlaasri/laravel-installer)
-[![License](https://poser.pugx.org/rachidlaasri/laravel-installer/license.svg)](https://packagist.org/packages/rachidlaasri/laravel-installer)
-
 - [About](#about)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -30,7 +26,7 @@ The current features are :
 
 ## Requirements
 
-* [Laravel 5.1, 5.2, 5.3, 5.4, or 5.5+](https://laravel.com/docs/installation)
+* [Laravel 8.x, 9.x, 10+](https://laravel.com/docs/installation)
 
 ## Installation
 
@@ -50,7 +46,7 @@ Register the package with laravel in `config/app.php` under `providers` with the
 
 ```php
 	'providers' => [
-	    RachidLaasri\LaravelInstaller\Providers\LaravelInstallerServiceProvider::class,
+	    Safiull\LaravelInstaller\Providers\LaravelInstallerServiceProvider::class,
 	];
 ```
 
