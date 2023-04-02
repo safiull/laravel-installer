@@ -80,14 +80,10 @@ Register the package with laravel in `config/app.php` under `providers` with the
 |`resources/views/vendor/installer`|This folder contains the HTML code for your installer, it is 100% customizable, give it a look and see how nice/clean it is.|
 |`resources/lang/en/installer_messages.php`|This file holds all the messages/text, currently only English is available, if your application is in another language, you can copy/past it in your language folder and modify it the way you want.|
 
-## Contributing
 
-* If you have any suggestions please let me know : https://github.com/RachidLaasri/LaravelInstaller/pulls.
-* Please help us provide more languages for this awesome package please send a pull request https://github.com/RachidLaasri/LaravelInstaller/pulls.
+<!-- ## Help
 
-## Help
-
-* Cannot figure it out? Need more help? Here is a video tutorial: [Laravel Installer by Devdojo](https://www.youtube.com/watch?v=Jput5doFYLg)
+* Cannot figure it out? Need more help? Here is a video tutorial: [Laravel Installer by Devdojo](https://www.youtube.com/watch?v=Jput5doFYLg) -->
 
 ## Screenshots
 
