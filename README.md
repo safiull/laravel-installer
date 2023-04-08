@@ -7,8 +7,8 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Help](#help)
-<!-- - [Screenshots](#screenshots) -->
 - [License](#license)
+<!-- - [Screenshots](#screenshots) -->
 
 ## About
 
