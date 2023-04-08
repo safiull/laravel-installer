@@ -1,4 +1,4 @@
-# Laravel Web Installer | A Web Installer [Package](https://packagist.org/packages/rachidlaasri/laravel-installer)
+# Laravel Web Installer | A Web Installer [Package](https://packagist.org/packages/safiull/laravel-installer)
 
 - [About](#about)
 - [Requirements](#requirements)
@@ -7,7 +7,7 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Help](#help)
-- [Screenshots](#screenshots)
+<!-- - [Screenshots](#screenshots) -->
 - [License](#license)
 
 ## About
@@ -85,7 +85,7 @@ Register the package with laravel in `config/app.php` under `providers` with the
 
 * Cannot figure it out? Need more help? Here is a video tutorial: [Laravel Installer by Devdojo](https://www.youtube.com/watch?v=Jput5doFYLg) -->
 
-## Screenshots
+<!-- ## Screenshots
 
 ###### Installer
 ![Laravel web installer | Step 1](https://s3-us-west-2.amazonaws.com/github-project-images/laravel-installer/install/1-welcome.jpg)
@@ -101,7 +101,7 @@ Register the package with laravel in `config/app.php` under `providers` with the
 ###### Updater
 ![Laravel web updater | Step 1](https://s3-us-west-2.amazonaws.com/github-project-images/laravel-installer/update/1-welcome.jpg)
 ![Laravel web updater | Step 2](https://s3-us-west-2.amazonaws.com/github-project-images/laravel-installer/update/2-updates.jpg)
-![Laravel web updater | Step 3](https://s3-us-west-2.amazonaws.com/github-project-images/laravel-installer/update/3-finished.jpg)
+![Laravel web updater | Step 3](https://s3-us-west-2.amazonaws.com/github-project-images/laravel-installer/update/3-finished.jpg) -->
 
 ### Changelog
 
